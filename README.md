@@ -1,5 +1,5 @@
 # Algorithmic_Trading
-
+Challenge assignment for the UW FinTech course
 
 1. Establish a Baseline Performance
 

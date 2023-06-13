@@ -1,8 +1,10 @@
-# Algorithmic_Trading_challenge14
-UW FinTech course challenge14
+# Algorithmic_Trading
 
-I changed the date offset from 3 months to 6 months.
 
-Up until 2019, the model was performing more accurately. After 2019, the model was slightly less accurate than the original.
+1. Establish a Baseline Performance
 
-![Example](Resources/6_month_model.png)
+2. Tune the Baseline Trading Algorithm
+
+3. Evaluate a New Machine Learning Classifier
+
+4. Create an Evaluation Report
